@@ -1,0 +1,35 @@
+.myBG{
+    height: 100vh;
+    background: url('../assets/bg/bg.jpg');
+    background-size: cover;
+}
+.intro{
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+.title{
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.tranding {
+    height: auto;
+    background: url('../assets/bg/spd.jpg');
+    background-size: cover;
+}
+.posterimage{
+    
+    height: 500px;
+}
+
+.superhero {
+    height: auto;
+    background: url('../assets/bg/hero.jpg');
+    background-size: cover;
+}
